@@ -1,3 +1,4 @@
-Hello World
-Good morning world
-Good night world
+Add is to choose the file to be committed from the working directory in local
+Commit is to stage the file chosen using add
+Push is to upload the file staged using commit
+Add and commit will not modify the repository on Git, while push will.
